@@ -5,3 +5,8 @@ Answer: Git is useful for tracking changes, versions, and code while working wit
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be used in environmental science to evaluate and analyze the average of rainfall or climate over time. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches with a merge commit, connecting the history of the two branches and retaining a chronological log.
+        Rebasing writes the feature branch's commit to the end of the target branch, making the history of the two branches a linear path for a clean commit log.
