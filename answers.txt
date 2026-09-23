@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in environmental science to evaluate and analyze the average of rainfall or climate over time. 
